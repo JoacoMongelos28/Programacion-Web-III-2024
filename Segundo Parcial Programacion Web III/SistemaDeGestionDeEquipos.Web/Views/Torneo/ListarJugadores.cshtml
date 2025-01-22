@@ -1,0 +1,52 @@
+﻿@using SistemaDeGestionDeEquipos.Data.Entidades
+@model List<SistemaDeGestionDeEquipos.Data.Entidades.Jugador>
+
+<form action="/Torneo/ListarJugadores" method="post">
+    <div>
+        Equipos:
+        <select name="IdEquipo">
+            <option value="">Todas</option>
+            @foreach (Equipo equipo in ViewBag.Equipos)
+            {
+                if (ViewBag.IdEquipoElegido == equipo.IdEquipo)
+                {
+                    <option selected="selected" value="@equipo.IdEquipo">@equipo.NombreEquipo</option>
+                }
+                else
+                {
+                    <option value="@equipo.IdEquipo">@equipo.NombreEquipo</option>
+                }
+            }
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Filtrar por equipos</button>
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model[0].NombreCompleto)
+            </th>
+            <th>
+                Equipo
+            </th>
+            <th>
+                Nombre del Equipo
+            </th>
+        </tr>
+
+        @foreach (var jugador in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => jugador.NombreCompleto)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => jugador.IdEquipoNavigation.IdEquipo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => jugador.IdEquipoNavigation.NombreEquipo)
+                </td>
+            </tr>
+        }
+    </table>
+</form>

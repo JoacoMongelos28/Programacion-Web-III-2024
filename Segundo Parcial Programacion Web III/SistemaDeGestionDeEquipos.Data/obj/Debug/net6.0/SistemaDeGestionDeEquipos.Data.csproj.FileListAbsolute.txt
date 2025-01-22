@@ -1,0 +1,14 @@
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Data\bin\Debug\net6.0\SistemaDeGestionDeEquipos.Data.deps.json
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Data\bin\Debug\net6.0\SistemaDeGestionDeEquipos.Data.runtimeconfig.json
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Data\bin\Debug\net6.0\SistemaDeGestionDeEquipos.Data.dll
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Data\bin\Debug\net6.0\SistemaDeGestionDeEquipos.Data.pdb
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Data\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Data.csproj.AssemblyReference.cache
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Data\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Data\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Data.AssemblyInfoInputs.cache
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Data\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Data.AssemblyInfo.cs
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Data\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Data.csproj.CoreCompileInputs.cache
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Data\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Data.dll
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Data\obj\Debug\net6.0\refint\SistemaDeGestionDeEquipos.Data.dll
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Data\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Data.pdb
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Data\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Data.genruntimeconfig.cache
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Data\obj\Debug\net6.0\ref\SistemaDeGestionDeEquipos.Data.dll

@@ -1,0 +1,15 @@
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Logica\bin\Debug\net6.0\RegistroAduaneroDeBarcos.Logica.deps.json
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Logica\bin\Debug\net6.0\RegistroAduaneroDeBarcos.Logica.dll
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Logica\bin\Debug\net6.0\RegistroAduaneroDeBarcos.Logica.pdb
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Logica\bin\Debug\net6.0\RegistroAduaneroDeBarcos.Entidades.dll
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Logica\bin\Debug\net6.0\RegistroAduaneroDeBarcos.Entidades.pdb
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Logica\obj\Debug\net6.0\RegistroAduaneroDeBarcos.Logica.csproj.AssemblyReference.cache
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Logica\obj\Debug\net6.0\RegistroAduaneroDeBarcos.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Logica\obj\Debug\net6.0\RegistroAduaneroDeBarcos.Logica.AssemblyInfoInputs.cache
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Logica\obj\Debug\net6.0\RegistroAduaneroDeBarcos.Logica.AssemblyInfo.cs
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Logica\obj\Debug\net6.0\RegistroAduaneroDeBarcos.Logica.csproj.CoreCompileInputs.cache
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Logica\obj\Debug\net6.0\Registro.1DC21D51.Up2Date
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Logica\obj\Debug\net6.0\RegistroAduaneroDeBarcos.Logica.dll
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Logica\obj\Debug\net6.0\refint\RegistroAduaneroDeBarcos.Logica.dll
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Logica\obj\Debug\net6.0\RegistroAduaneroDeBarcos.Logica.pdb
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Logica\obj\Debug\net6.0\ref\RegistroAduaneroDeBarcos.Logica.dll

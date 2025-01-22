@@ -1,0 +1,23 @@
+﻿@using SistemaDeGestionDeEquipos.Data.Entidades
+@model SistemaDeGestionDeEquipos.Data.Entidades.Jugador
+
+<form action="/Torneo/CrearJugador" method="post">
+
+    <div class="form-group">
+        <label for="NombreCompleto">Nombre Completo</label>
+        <input type="text" class="form-control" id="NombreCompleto" name="NombreCompleto" placeholder="Nombre Completo">
+    </div>
+
+    <div>
+        Equipo:
+        <select name="IdEquipo">
+            @foreach (Equipo equipo in ViewBag.Equipos)
+            {
+                <option value="@equipo.IdEquipo">@equipo.NombreEquipo</option>
+            }
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Crear Jugador</button>
+
+</form>

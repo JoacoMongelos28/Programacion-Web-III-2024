@@ -1,0 +1,15 @@
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Logica\bin\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.deps.json
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Logica\bin\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.dll
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Logica\bin\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.pdb
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.AssemblyInfoInputs.cache
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.AssemblyInfo.cs
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.csproj.CoreCompileInputs.cache
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.dll
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\refint\SistemaDeGestionDeEquipos.Logica.dll
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.pdb
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\ref\SistemaDeGestionDeEquipos.Logica.dll
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Logica\bin\Debug\net6.0\SistemaDeGestionDeEquipos.Data.dll
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Logica\bin\Debug\net6.0\SistemaDeGestionDeEquipos.Data.pdb
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.csproj.AssemblyReference.cache
+C:\Programacion Web III\SistemaDeGestionDeEquipos\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\SistemaD.51705639.Up2Date

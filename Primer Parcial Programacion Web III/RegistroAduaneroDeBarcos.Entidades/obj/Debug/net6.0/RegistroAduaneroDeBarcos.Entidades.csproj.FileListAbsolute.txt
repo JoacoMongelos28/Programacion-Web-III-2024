@@ -1,0 +1,11 @@
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Entidades\bin\Debug\net6.0\RegistroAduaneroDeBarcos.Entidades.deps.json
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Entidades\bin\Debug\net6.0\RegistroAduaneroDeBarcos.Entidades.dll
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Entidades\bin\Debug\net6.0\RegistroAduaneroDeBarcos.Entidades.pdb
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Entidades\obj\Debug\net6.0\RegistroAduaneroDeBarcos.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Entidades\obj\Debug\net6.0\RegistroAduaneroDeBarcos.Entidades.AssemblyInfoInputs.cache
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Entidades\obj\Debug\net6.0\RegistroAduaneroDeBarcos.Entidades.AssemblyInfo.cs
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Entidades\obj\Debug\net6.0\RegistroAduaneroDeBarcos.Entidades.csproj.CoreCompileInputs.cache
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Entidades\obj\Debug\net6.0\RegistroAduaneroDeBarcos.Entidades.dll
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Entidades\obj\Debug\net6.0\refint\RegistroAduaneroDeBarcos.Entidades.dll
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Entidades\obj\Debug\net6.0\RegistroAduaneroDeBarcos.Entidades.pdb
+C:\Programacion Web III\RegistroAduaneroDeBarcos\RegistroAduaneroDeBarcos.Entidades\obj\Debug\net6.0\ref\RegistroAduaneroDeBarcos.Entidades.dll
